@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "UITextFieldIcons",
+        "repositoryURL": "https://github.com/DarthXoc/UITextFieldIcons.git",
+        "state": {
+          "branch": null,
+          "revision": "4d1d013d413d679c3fb779f9c95a0de6727ab835",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
