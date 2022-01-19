@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9635639C27989465006DB92E /* Packages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9635639B27989465006DB92E /* Packages.swift */; };
 		96623D1E25BBD59F00B4F2A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96623D1D25BBD59F00B4F2A6 /* AppDelegate.swift */; };
 		96623D2025BBD59F00B4F2A6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96623D1F25BBD59F00B4F2A6 /* SceneDelegate.swift */; };
 		96623D2525BBD59F00B4F2A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96623D2325BBD59F00B4F2A6 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9635639B27989465006DB92E /* Packages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Packages.swift; sourceTree = "<group>"; };
 		96623D1A25BBD59F00B4F2A6 /* UITextFieldIcons Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UITextFieldIcons Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96623D1D25BBD59F00B4F2A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		96623D1F25BBD59F00B4F2A6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				96623D1D25BBD59F00B4F2A6 /* AppDelegate.swift */,
 				96623D2625BBD5A000B4F2A6 /* Assets.xcassets */,
 				96623D2B25BBD5A000B4F2A6 /* Info.plist */,
+				9635639B27989465006DB92E /* Packages.swift */,
 				96623D1F25BBD59F00B4F2A6 /* SceneDelegate.swift */,
 				96623D3425BBD5D900B4F2A6 /* Storyboards */,
 				96623D3525BBD5DF00B4F2A6 /* View Controllers */,
@@ -169,6 +172,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9635639C27989465006DB92E /* Packages.swift in Sources */,
 				96623D3825BBD64900B4F2A6 /* ViewController.swift in Sources */,
 				96623D1E25BBD59F00B4F2A6 /* AppDelegate.swift in Sources */,
 				96623D2025BBD59F00B4F2A6 /* SceneDelegate.swift in Sources */,
